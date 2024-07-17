@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">MyTugasAkhir</string>
+    <string name="exit">Exit</string>
+    <string name="start">Start</string>
+    <string name="daftar_hijaiyah">Daftar Hijaiyah</string>
+    <string name="deskripsi_makhraj">
+        \t Makharij al-huruf adalah merupakan tempat keluarnya huruf dalam melafalkan huruf al-Qur’an. Pengertian makhraj dari segi bahasa adalah tempat keluar. Sedangkan dari segi istilah makhraj diartikan tempat keluarnya huruf. Secara rinci tempat keluarnya huruf ada 17, tetapi secara garis besar hanya ada lima yaitu:\n\n
+
+        <b>1. Asy-Syafatain (Dua Bibir)</b>\n
+\t Asy-Syafatain artinya dua bibir, yaitu tempat keluarnya huruf hijaiyah yang berada di bibir. Asy-Syafatain terdiri dari 4 huruf dengan perincian sebagai berikut:\n
+
+<li>Fa’ ( ف ) keluar dari dalamnya bibir yang bawah, serta menepati dengan ujung dua gigi seri yang atas.</li>\n
+<li>Wawu ( و ), ba’ ( ب ), mim ( م ) keluar di antara dua bibir (antara bibir atas dan bawah). Hanya saja untuk wawu bibir membuka, sedangkan untuk ba’ dan mim bibir membungkam.</li> \n\n
+
+        <b>2. Al-Halq (Tenggorokan)</b>\n
+        <p>\t Al-Halq artinya tenggorokan, yaitu tempat keluar bunyi huruf hijaiyah yang terletak pada tenggorokan. Al-Halq terdiri dari 6 huruf yang dibagi menjadi tiga bagian berdasarkan pelafalannya, yaitu:</p>\n
+        <li>Asyqal Halqi (pangkal tenggorokan), yaitu hamzah ( ء ) dan ha’ ( هـ ).</li>
+        \n
+        <li>Wasthul Halqi (pertengahan tenggorokan), yaitu ha’ ( ح ) dan ‘ain ( ع ).</li>
+        \n
+        <li>Adnal Halqi (ujung tenggorokan), yaitu ghoin ( غ ) dan kho’ ( خ ).</li>
+        \n\n
+
+    <b>3. Al-Lisan (Lidah)</b>\n
+    Al-Lisan artinya lidah, yaitu tempat keluarnya huruf-huruf hijaiyah yang berada di lidah. Bunyi huruf hijaiyah dengan tempat keluarnya dari lidah ada 18. Berdasarkan 18 huruf itu dapat dikelompokkan menjadi 10 makhraj, yaitu: \n
+        <li>Sisi/tepi lidah/pangkal tepi lidah, yaitu huruf dho’ (ض). Bunyinya keluar dari tepi lidah (boleh tepi lidah kanan atau kiri) hingga sambung dengan makhrojnya huruf lam, serta menepati geraham.</li>\n
+        <li>Pangkal lidah dan langit-langit mulut bagian belakang, yaitu huruf qof (ق). Bunyinya keluar dari pangkal lidah dekat dengan kerongkongan yang dihimpitkan ke langit-langit mulut bagian belakang.</li>\n
+        <li>Pangkal lidah bagian tengah dan langit-langit mulut bagian tengah, yaitu huruf kaf (ك). Bunyinya keluar dari pangkal lidah di depan makhroj huruf qof, yang dihimpitkan ke langit-langit bagian mulut bagian tengah.</li>\n
+        <li>Tengah-tengah lidah, yaitu huruf jim ( ج  ), syin ( ش ), dan ya’ ( ي ). Bunyinya keluar dari tengah-tengah lidah, serta menepati langit-langit mulut yang tepat di atasnya.</li>\n
+        <li>Ujung tepi lidah, yaitu huruf lam ( ل  ). Bunyinya keluar dari tepi lidah (sebelah kiri atau kanan) hingga penghabisan ujung lidah, serta menepati dengan langit-langit mulut atas.</li>\n
+        <li>Ujung lidah, yaitu huruf nun ( ن ). Bunyinya keluar dari ujung lidah (setelah makhrojnya lam), lebih masuk sedikit ke dasar lidah daripada lam, serta menepati dengan langit-langit mulut atas.</li>\n
+        <li>Ujung lidah tepat, yaitu huruf ro’ ( ر ). Bunyinya keluar dari ujung lidah tepat (setelah makhrojnya nun dan lebih masuk ke dasar lidah daripada nun) serta menepati dengan langit-langit mulut atas.</li>\n
+        <li>Kulit gusi atas, yaitu huruf dal (    د ), ta’ ( ت  ), dan tho’ ( ط   ). Bunyinya keluar dari ujung lidah serta menepati dengan pangkal gigi seri yang atas.</li>\n
+        <li>Runcing lidah, yaitu huruf shod (  ص ), sin ( س ), dan za’ ( ز  ). Bunyinya keluar dari ujung lidah serta menepati ujung dua gigi seri yang bawah.</li> \n
+        <li>Gusi, yaitu huruf dho’ ( ظ ), tsa’ ( ث ), dan dzal ( ذ ). Bunyinya keluar dari ujung lidah serta menepati dengan ujung dua gigi seri yang atas.</li>\n\n
+
+        <b>4. Al-Jauf (Rongga Mulut)</b>\n
+        \t Al-Jauf artinya rongga mulut, yaitu tempat keluarnya huruf-huruf hijaiyah yang terletak pada rongga mulut. Bunyi huruf yang keluar dari Al-Jauf terdiri dari tiga macam, yaitu alif ( ا ), wawu ( و  ), ya’ ( ي ). \n\n
+
+        <b>5. Al-Khaisyum (Pangkal Hidung)</b>\n
+        \t Al-Kaishyum artinya pangkal hidung, yaitu tempat keluarnya huruf hijaiyah yang terletak pada jalur hidung dengan suara dengung atau gunnah. Adapun huruf-hurufnya yaitu huruf-huruf gunnah mim dan nun dengan ketentuan sebagai berikut.\n
+        <li>Nun Bertasydid</li>\n
+        <li>Mim Bertasydid</li>\n
+        <li>Nun sukun yang dibaca idgham bighunnah, iqlab, dan ikhfa’ haqiqi</li>\n
+        <li>Mim sukun yang bertemu dengan mim atau ba’ </li>\n\n
+
+
+
+
+
+
+
+
+
+
+    </string>
+
+</resources>

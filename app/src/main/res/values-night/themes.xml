@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+<!--    <style name="Base.Theme.MyTugasAkhir" parent="Theme.Material3.DayNight.NoActionBar">-->
+    <style name="Base.Theme.MyTugasAkhir" parent="Theme.Material3.Light.NoActionBar">
+        <item name="android:forceDarkAllowed" tools:targetApi="q">false</item>
+        <!-- Customize your dark theme here. -->
+         <item name="colorPrimaryDark">@color/blue</item>
+        <item name="android:navigationBarColor">@color/blue</item>
+        <item name="rippleColor">@color/grayDarkDisabled</item>
+    </style>
+</resources>

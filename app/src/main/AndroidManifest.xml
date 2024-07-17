@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.RECORD_AUDIO"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_MEDIA_AUDIO" />
+
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:enableOnBackInvokedCallback="true"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.MyTugasAkhir"
+        tools:targetApi="31">
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+
+        <!--        Start activity-->
+        <activity
+            android:name=".StartActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <!--        end of start activity-->
+
+        <!--        Menu Activity-->
+        <activity
+            android:name=".BacaanUtama.MenuActivity"
+            android:exported="false"></activity>
+        <!--        end of Menu Activity-->
+
+        <!--        Detal Activity-->
+        <activity
+            android:name=".BacaanUtama.DetailActivity"
+            android:exported="false">
+
+            <!--            <intent-filter>-->
+            <!--                <action android:name="android.intent.action.MAIN" />-->
+            <!--                <category android:name="android.intent.category.LAUNCHER" />-->
+            <!--            </intent-filter>-->
+        </activity>
+        <!--        end of Detal Activity-->
+
+<!--        start of BelajarHomeActivity-->
+        <activity
+            android:name=".BelajarHijaiyah.BelajarHomeActivity"
+            android:exported="false"></activity>
+<!--        end of BelajarHomeActivity-->
+
+        <!--        start of BelajarDetailActivity-->
+        <activity
+            android:name=".BelajarHijaiyah.BelajarDetailActivity"
+            android:exported="false"></activity>
+        <!--        end of BelajarDetailActivity-->
+        <!--        start of BelajarMenuActivity-->
+        <activity
+            android:name=".BelajarHijaiyah.BelajarMenuActivity"
+            android:exported="false"></activity>
+        <!--        end of BelajarMenuActivity-->
+        <activity android:name=".Fragment.ImageZoomDialogFragment" />
+
+        <activity
+            android:name=".BacaanAlternatif.MenuHijaiyahAlternatifActivity"
+            android:exported="false"></activity>
+        <activity
+            android:name=".BacaanAlternatif.DetailHijaiyahAlternatifActivity"
+            android:exported="false"></activity>
+
+        <activity android:name="LoadingActivity"/>
+    </application>
+
+</manifest>
