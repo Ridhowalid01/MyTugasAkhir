@@ -19,9 +19,10 @@ link : https://dataverse.telkomuniversity.ac.id/dataset.xhtml;jsessionid=05ba9ee
   N. Khozin and A. M. Abror, “Pendampingan pendalaman makharij al-huruf bagi santri pondok pesantren hidayatul mustaqim bulusari tarokan kediri,” JPMD: Jurnal Pengabdian kepada Masyarakat Desa, vol. 1, no. 1, pp. 179–188, 2020, issn: 2745-5947.
 
   link : https://ejournal.iaifa.ac.id/index.php/JPMD/article/view/214
-
+  
 ## Demo Video
 
-[![App Demo](https://img.youtube.com/shorts/IAEER7qfEd0/0.jpg)](https://www.youtube.com/watch?v=IAEER7qfEd0)
+[![App Demo](https://img.youtube.com/vi/IAEER7qfEd0/0.jpg)](https://www.youtube.com/watch?v=IAEER7qfEd0)
 
-YouTube Link : (https://youtube.com/shorts/IAEER7qfEd0?feature=share)
+YouTube Link: [https://www.youtube.com/watch?v=IAEER7qfEd0](https://www.youtube.com/watch?v=IAEER7qfEd0)
+
