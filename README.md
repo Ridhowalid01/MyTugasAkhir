@@ -8,7 +8,7 @@ https://github.com/Ridhowalid01/BackendForMyTugasAkhir.git
 To run the application with Backend using ngrok, please go to the link and run "BACKEND" folder.
 
 
-Reference:
+## Reference:
 - Audio for Makhraj Learning
   Adiwijaya, U. NOVIA WISESTY, and M. S. Mubarok, Marked hijaiyah letters’ pronun￾ciation dataset, version V1, 2021. doi: 10.34820/FK2/XACWLX. [Online]. Available:
 https://doi.org/10.34820/FK2/XACWLX.
@@ -19,3 +19,7 @@ link : https://dataverse.telkomuniversity.ac.id/dataset.xhtml;jsessionid=05ba9ee
   N. Khozin and A. M. Abror, “Pendampingan pendalaman makharij al-huruf bagi santri pondok pesantren hidayatul mustaqim bulusari tarokan kediri,” JPMD: Jurnal Pengabdian kepada Masyarakat Desa, vol. 1, no. 1, pp. 179–188, 2020, issn: 2745-5947.
 
   link : https://ejournal.iaifa.ac.id/index.php/JPMD/article/view/214
+
+## Demo Video
+
+[https://youtube.com/shorts/QA5nGB71XVM?feature=share](https://youtube.com/shorts/IAEER7qfEd0?feature=share)
