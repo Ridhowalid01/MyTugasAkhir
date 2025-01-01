@@ -3,7 +3,7 @@ The Application for My Final Project Institut Teknologi Sepuluh Nopember Surabay
 " The Use Of MFCC Features With Dynamic Time Warping For Matching The Pronounciation Of Hijaiyah Letters On An Android Platform "
 
 Here is a link for my Final Project Program in github
-https://github.com/Ridhowalid01/TUGAS_ANIME.git
+https://github.com/Ridhowalid01/BackendForMyTugasAkhir.git
 
 To run the application with Backend using ngrok, please go to the link and run "BACKEND" folder.
 
