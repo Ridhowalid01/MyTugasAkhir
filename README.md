@@ -22,4 +22,6 @@ link : https://dataverse.telkomuniversity.ac.id/dataset.xhtml;jsessionid=05ba9ee
 
 ## Demo Video
 
-[https://youtube.com/shorts/QA5nGB71XVM?feature=share](https://youtube.com/shorts/IAEER7qfEd0?feature=share)
+[![App Demo](https://img.youtube.com/shorts/IAEER7qfEd0/0.jpg)](https://www.youtube.com/watch?v=IAEER7qfEd0)
+
+YouTube Link : (https://youtube.com/shorts/IAEER7qfEd0?feature=share)
